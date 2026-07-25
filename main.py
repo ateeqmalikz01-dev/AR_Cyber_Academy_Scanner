@@ -1,5 +1,5 @@
 """
-AR Cyber Academy Scanner - Main GUI Entry Point
+AR_Cyber_Academy Scanner - Main GUI Entry Point
 Developer: Ateeq ur Rehman
 
 Advanced network scanning GUI built with customtkinter.
