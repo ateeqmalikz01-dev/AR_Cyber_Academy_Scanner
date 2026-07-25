@@ -353,7 +353,7 @@ class NmapScanner:
         """Export scan results to a plain text file."""
         lines = []
         lines.append("=" * 70)
-        lines.append("AR Academy Scanner - Scan Report")
+        lines.append("AR_Cyber_Academy Scanner - Scan Report")
         lines.append(f"Developer: Ateeq ur Rehman")
         lines.append("=" * 70)
         lines.append(f"Target:       {result.target}")
