@@ -255,7 +255,7 @@ class ARScannerApp(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        self.title("AR Academy Scanner")
+        self.title("AR_Cyber_Academy Scanner")
         self.geometry("1280x820")
         self.minsize(1100, 700)
         self.configure(fg_color=CLR_BG)
