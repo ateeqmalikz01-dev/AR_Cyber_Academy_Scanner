@@ -1,5 +1,5 @@
 """
-AR Cyber Academy Scanner - Nmap Wrapper Module
+AR_Cyber_Academy Scanner - Nmap Wrapper Module
 Developer: Ateeq ur Rehman
 
 Wraps the python-nmap library to provide various network scanning capabilities.
